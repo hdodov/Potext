@@ -5,7 +5,7 @@ The default gettext implementation doesn't always work and is a bit hard to unde
 
 # Installation
 
-Clone this repo or install with Composer:
+Clone this repo or find [Potext on Packagist](https://packagist.org/packages/hdodov/potext) and install it with Composer:
 
 ```
 composer require hdodov/potext:dev-master
