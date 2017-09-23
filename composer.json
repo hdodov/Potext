@@ -1,0 +1,32 @@
+{
+    "name": "hdodov/potext",
+    "description": "Translate text in a gettext-like way without actually using gettext and parsing .po files instead.",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": ["gettext", "i18n", "internationalization", "l10n", "localization", "locale", "translation", "po", "po-parser", "parse"],
+    "homepage": "https://github.com/hdodov/Potext",
+    "time": "2017-09-23",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hristiyan Dodov",
+            "email": "h.dodov@gmail.com",
+            "homepage": "https://hdodov.net/"
+        }
+    ],
+    "support": {
+        "docs": "https://github.com/hdodov/Potext/blob/master/README.md",
+        "issues": "https://github.com/hdodov/Potext/issues"
+    },
+    "require": {
+        "sepia/po-parser": "4.2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Potext\\" : "src/Potext/"
+        },
+        "files": [
+            "src/translate_functions.php"
+        ]
+    }
+}
