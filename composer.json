@@ -4,7 +4,7 @@
     "type": "library",
     "keywords": ["gettext", "i18n", "internationalization", "l10n", "localization", "locale", "translation", "po", "po-parser", "parse"],
     "homepage": "https://github.com/hdodov/Potext",
-    "time": "2017-09-23",
+    "time": "2017-09-24",
     "license": "MIT",
     "authors": [
         {
