@@ -1,7 +1,6 @@
 {
     "name": "hdodov/potext",
     "description": "Translate text in a gettext-like way without actually using gettext and parsing .po files instead.",
-    "version": "1.0.0",
     "type": "library",
     "keywords": ["gettext", "i18n", "internationalization", "l10n", "localization", "locale", "translation", "po", "po-parser", "parse"],
     "homepage": "https://github.com/hdodov/Potext",
