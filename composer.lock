@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "ce1965562c36b5045bbe1d628619d38f",
+    "content-hash": "1a5166b0b97a0a38471e9f191e838c00",
     "packages": [
         {
             "name": "sepia/po-parser",
