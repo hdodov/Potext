@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-23 16:00+0300\n"
-"PO-Revision-Date: 2017-09-23 16:02+0300\n"
+"POT-Creation-Date: 2017-09-25 10:44+0300\n"
+"PO-Revision-Date: 2017-09-25 10:45+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: bg\n"
@@ -26,13 +26,52 @@ msgid_plural "%d apples"
 msgstr[0] "%d ябълка"
 msgstr[1] "%d ябълки"
 
-#: index.php:15 index.php:17
+#: index.php:16
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry's standard dummy text ever since the "
+"1500s, when an unknown printer took a galley of type and scrambled it to "
+"make a type specimen book."
+msgstr ""
+"Lorem Ipsum е просто манекен текст на индустрията за печатане и подреждане. "
+"Lorem Ipsum е стандартният фиктивен текст на индустрията още от 1500-те "
+"години, когато един неизвестен принтер взе камбуз от типа и го забърза, за "
+"да направи книга за образците."
+
+#: index.php:20
+#, php-format
+msgid ""
+"It has survived not only five centuries, but also the leap into electronic "
+"typesetting, remaining essentially unchanged. It was popularised in the "
+"1960s with the release of %d Letraset sheet containing Lorem Ipsum passages, "
+"and more recently with desktop publishing software like Aldus PageMaker "
+"including versions of Lorem Ipsum."
+msgid_plural ""
+"It has survived not only five centuries, but also the leap into electronic "
+"typesetting, remaining essentially unchanged. It was popularised in the "
+"1960s with the release of %d Letraset sheets containing Lorem Ipsum "
+"passages, and more recently with desktop publishing software like Aldus "
+"PageMaker including versions of Lorem Ipsum."
+msgstr[0] ""
+"Тя е оцеляла не само от пет века, но и скок в електронната подготовка, "
+"останала по същество непроменена. Той е популяризиран през 60-те години на "
+"миналия век с пускането на %d Letraset лист, съдържащ Lorem Ipsum пасажи и в "
+"последно време с софтуер за настолни публикации като Aldus PageMaker, "
+"включително версии на Lorem Ipsum."
+msgstr[1] ""
+"Тя е оцеляла не само от пет века, но и скок в електронната подготовка, "
+"останала по същество непроменена. Той е популяризиран през 60-те години на "
+"миналия век с пускането на %d Letraset листа, съдържащ Lorem Ipsum пасажи и "
+"в последно време с софтуер за настолни публикации като Aldus PageMaker, "
+"включително версии на Lorem Ipsum."
+
+#: index.php:25 index.php:27
 #, php-format
 msgid "%d banana"
 msgid_plural "%d bananas"
 msgstr[0] "%d банан"
 msgstr[1] "%d банана"
 
-#: index.php:19
+#: index.php:29
 msgid "Goodbye!"
 msgstr "Довиждане!"
