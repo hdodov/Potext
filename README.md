@@ -3,6 +3,10 @@ Translate text in a gettext-like way by parsing .po files instead of actually us
 
 The default gettext implementation doesn't always work and is a bit hard to understand. Potext gives you the ability to still use shorthand functions like `_po()` and `_npo()` (for plurals), but use a .po file (parsed with [PHP-po-parser](https://github.com/raulferras/PHP-po-parser)) to display the actual text. No text domains or locales. You just put your text in those functions and then set a file whose text will be presented to the user.
 
+## ⚠ Deprecated!
+
+Just use [Gettext](https://www.php.net/manual/en/book.gettext.php).
+
 # Installation
 
 Clone this repo or find [Potext on Packagist](https://packagist.org/packages/hdodov/potext) and install it with Composer:
